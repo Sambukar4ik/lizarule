@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Prosto+One&display=swap');
+
+body{
+    background-color: #EEF4D4;
+    font-family: Prosto One;
+    margin: 0;
+}
+header{
+    display: flex;
+    justify-content: center;
+    background-color: #FE7F2D;
+    color: rgb(250, 252, 213);
+}
+h1{
+   padding-top: 30px;
+}
+.main{
+    display: flex;
+    justify-content: center;
+   }
+.sp{
+    background-color: #fbf4b3;
+    width: 50%;
+    border-radius: 10px;
+    margin-top: 15px;
+    
+    margin-bottom: 15px;
+}
+p{
+    padding: 15px;
+}
+footer{
+    background-color: #eef4d5;
+    color: white;
+    margin-bottom: 0;
+    display: flex;
+    justify-content: space-between;
+    height: 30px;
+}
